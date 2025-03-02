@@ -32,5 +32,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
   GitHub [erveygarcia](https://github.com/erveygarcia)  https://github.com/erveygarcia/NodeJS.git
   If you have any questions, please contact me at erveygarcia@yahoo.com.mx.
 
-  ## Link to demosntration video
+  ## Link to demonstration video
   https://app.screencastify.com/v3/watch/164BFAbdldwEM3Hz7jY6
